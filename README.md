@@ -27,6 +27,7 @@ The application takes a city name from the user, retrieves its current weather d
 ## 🧠 How the Project Works
 
 The project follows these major steps:
+```text
 Weather Dataset
        ↓
 Data Cleaning
@@ -53,7 +54,7 @@ Machine Learning Prediction
        ↓
 Display Actual & Predicted Temperature
 
-
+```
 
 
 ---
